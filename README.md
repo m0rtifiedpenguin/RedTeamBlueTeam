@@ -1,2 +1,2 @@
 # RedTeamBlueTeam
-Simulation of a penetration test and subsequent log analysis of the penetration test.
+Kali Linux based imulation of a penetration test and subsequent log analysis of the penetration test using Kibana.
